@@ -101,5 +101,6 @@ The analysis uncovered key gaps in the store's subscription and discount strateg
 Working through the complete workflow — from data cleaning in Python to SQL querying to Power BI dashboarding — was a great hands-on experience that strengthened my ability to ask the right business 
 questions and translate data into decisions. 
 
-
-
+## Author 
+Chintakindi Jasnavi Email: chintakindijasnavi@gmail.com 
+GitHub : https://github.com/chintakindijasnavi-sudo/Customer_Shopping_Behavior_Analysis/edit/main/README.md
