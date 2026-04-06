@@ -103,4 +103,5 @@ questions and translate data into decisions.
 
 ## Author 
 Chintakindi Jasnavi Email: chintakindijasnavi@gmail.com 
+linkedin: www.linkedin.com/in/chintakindi-jasnavi
 GitHub : https://github.com/chintakindijasnavi-sudo/Customer_Shopping_Behavior_Analysis/edit/main/README.md
