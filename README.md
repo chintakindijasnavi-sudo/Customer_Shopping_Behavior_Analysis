@@ -67,24 +67,15 @@ Q10. Revenue by Age Group
 The analysis revealed that male customers drive significantly more revenue than female customers, contributing over 2x the total spend. When it comes to age, Young Adults (18–31) are the highest-value segment — both in revenue and number of purchases — followed by Middle Aged customers, while Adult and Senior segments contribute the least. Despite having a subscription program in place, subscribers and non-subscribers spend almost the same amount per visit, meaning the program is not influencing purchasing behavior. Similarly, discounts are not driving higher spend — customers with and without discounts show nearly identical average purchase amounts, suggesting margins are being lost with no real return. Clothing dominates the product mix at 45% of total revenue, with clear hero products in every category driving the bulk of orders. Seasonally, Fall is the strongest period while Summer consistently underperforms. Perhaps the most critical finding — loyal repeat buyers are not converting to subscriptions. With nearly 1,800 repeat customers choosing to remain unsubscribed, there is a clear gap in the retention strategy that the business needs to address.
 
 
-## Business Recommendations
+## Business Recommendations     
 Based on the findings, here are six actionable recommendations for the business:
-1. Fix the Subscription Program :
-Since subscribers spend the same as non-subscribers, the program needs stronger incentives — exclusive discounts, free shipping thresholds,
-or early product access to give customers a real reason to subscribe.
-2. Convert Loyal Repeat Buyers :
-Nearly 1,800 repeat buyers are non-subscribers. A targeted campaign such as "You've shopped with us 6 times — unlock Premium benefits" 
-could significantly grow subscription revenue without acquiring new customers.
-3. Stop Blanket Discounting :
-Discounts are not increasing spend — they are only cutting margins. Replace flat discounts with conditional offers to incentivize higher basket sizes instead.
-4. Focus on the 56–70 Age Segment :
-This is the highest-value customer group. Tailored product recommendations, personalized email campaigns, and loyalty perks designed specifically for this
-segment can further grow revenue here.
-5. Build a Summer Strategy :
-Summer underperforms every other season by $4,000–$5,000. Targeted summer collections, flash sales, or seasonal bundles can close that gap and smooth
-out revenue across the year.
-6. Attract Younger Customers :
-The 18–25 segment is the lowest-spending group. Social media campaigns, trend-driven products, and flexible payment options can reduce purchase friction and grow this segment over time.
+1.Fix the Subscription Program: Since subscribers spend the same as non-subscribers, the program needs stronger incentives — exclusive discounts, free shipping thresholds, or early product access to give customers a real reason to subscribe.
+2.Convert Loyal Repeat Buyers: Nearly 1,800 repeat buyers are non-subscribers. A targeted campaign such as "You've shopped with us 6 times — unlock Premium benefits" could significantly grow subscription revenue without acquiring new customers.
+3.Stop Blanket Discounting: Discounts are not increasing spend — they are only cutting margins. Replace flat discounts with conditional offers to incentivize higher basket sizes instead.
+4.Double Down on the Young Adult Segment: Young Adults (18–31) are the highest-value customer group in both revenue and purchase volume. Since they're also the segment most likely to respond to digital engagement, pairing loyalty perks and personalized recommendations for this group with the subscription push (recommendation #1) could compound both revenue and retention gains.
+5.Build a Summer Strategy: Summer underperforms every other season by $4,000–$5,000. Targeted summer collections, flash sales, or seasonal bundles can close that gap and smooth out revenue across the year.
+6.Re-engage the Adult and Senior Segments: These are currently the lowest-spending age groups. Since they already show established purchasing habits, targeted re-engagement — such as personalized offers based on past purchase history — may be more effective than broad acquisition campaigns aimed at bringing in entirely new customers.
+
 
 ## Conclusion
 This project analyzes customer shopping behavior across 3,900 transactions to help a retail business better understand its customers, products, and revenue drivers.
