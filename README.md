@@ -63,17 +63,8 @@ Q9. Repeat Buyers and Subscription Conversion
 
 Q10. Revenue by Age Group
 
-## Key Findings
-The analysis revealed that male customers drive significantly more revenue than female customers, contributing over 2x the total spend. 
-When it comes to age, older customers (56–70) are the highest-value segment while younger shoppers (18–25) contribute the least.
-Despite having a subscription program in place, subscribers and non-subscribers spend almost the same amount per visitmeaning the program
-is not influencing purchasing behavior.
-Similarly, discounts are not driving higher spend — customers with and without discounts show nearly identical average purchase amounts,
-suggesting margins are being lost with no real return.
-Clothing dominates the product mix at 45% of total revenue, with clear hero products in every category driving the bulk of orders.
-Seasonally, Fall is the strongest period while Summer consistently underperforms.
-Perhaps the most critical finding — loyal repeat buyers are not converting to subscriptions. With nearly 1,800 repeat customers
-choosing to remain unsubscribed, there is a clear gap in the retention strategy that the business needs to address.
+## Key Findings   
+The analysis revealed that male customers drive significantly more revenue than female customers, contributing over 2x the total spend. When it comes to age, Young Adults (18–31) are the highest-value segment — both in revenue and number of purchases — followed by Middle Aged customers, while Adult and Senior segments contribute the least. Despite having a subscription program in place, subscribers and non-subscribers spend almost the same amount per visit, meaning the program is not influencing purchasing behavior. Similarly, discounts are not driving higher spend — customers with and without discounts show nearly identical average purchase amounts, suggesting margins are being lost with no real return. Clothing dominates the product mix at 45% of total revenue, with clear hero products in every category driving the bulk of orders. Seasonally, Fall is the strongest period while Summer consistently underperforms. Perhaps the most critical finding — loyal repeat buyers are not converting to subscriptions. With nearly 1,800 repeat customers choosing to remain unsubscribed, there is a clear gap in the retention strategy that the business needs to address.
 
 
 ## Business Recommendations
