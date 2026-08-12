@@ -69,10 +69,13 @@ The analysis revealed that male customers drive significantly more revenue than 
 
 ## Business Recommendations     
 Based on the findings, here are six actionable recommendations for the business:
+
 1.Fix the Subscription Program: Since subscribers spend the same as non-subscribers, the program needs stronger incentives — exclusive discounts, free shipping thresholds, or early product access to give customers a real reason to subscribe. 
 
-2.Convert Loyal Repeat Buyers: Nearly 1,800 repeat buyers are non-subscribers. A targeted campaign such as "You've shopped with us 6 times — unlock Premium benefits" could significantly grow subscription revenue without acquiring new customers.     
-3.Stop Blanket Discounting: Discounts are not increasing spend — they are only cutting margins. Replace flat discounts with conditional offers to incentivize higher basket sizes instead.                                                                
+2.Convert Loyal Repeat Buyers: Nearly 1,800 repeat buyers are non-subscribers. A targeted campaign such as "You've shopped with us 6 times — unlock Premium benefits" could significantly grow subscription revenue without acquiring new customers.    
+
+3.Stop Blanket Discounting: Discounts are not increasing spend — they are only cutting margins. Replace flat discounts with conditional offers to incentivize higher basket sizes instead.    
+
 4.Double Down on the Young Adult Segment: Young Adults (18–31) are the highest-value customer group in both revenue and purchase volume. Since they're also the segment most likely to respond to digital engagement, pairing loyalty perks and personalized recommendations for this group with the subscription push (recommendation #1) could compound both revenue and retention gains.
 
 5.Build a Summer Strategy: Summer underperforms every other season by $4,000–$5,000. Targeted summer collections, flash sales, or seasonal bundles can close that gap and smooth out revenue across the year.
